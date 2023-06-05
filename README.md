@@ -8,3 +8,4 @@ For the HTML code,all the tags contain semantic elements. Every element is confi
 
 ### Screenshot
 
+![Alt text](./Images/Horison%20Web%20Page.png)
